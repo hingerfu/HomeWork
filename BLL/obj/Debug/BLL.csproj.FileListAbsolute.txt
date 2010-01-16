@@ -1,0 +1,11 @@
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\bin\Debug\BLL.dll
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\bin\Debug\BLL.pdb
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\bin\Debug\DAL.dll
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\bin\Debug\IDAL.dll
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\bin\Debug\Model.dll
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\bin\Debug\Model.pdb
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\bin\Debug\IDAL.pdb
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\bin\Debug\DAL.pdb
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\obj\Debug\BLL.dll
+D:\Y2项目\项目资料\20091211\HomeWork\BLL\obj\Debug\BLL.pdb
