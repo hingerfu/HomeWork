@@ -1,8 +1,8 @@
 //////////////////////////////////////////////////////////////////////
-/// ±àÐ´Õß:¸¶Ó­»ª
-/// ÎÄ¼þÃû:Common.cs
-/// ´´½¨Ê±¼ä:2009/12/15
-/// ¸üÐÂÊ±¼ä:200/12/15
+/// ï¿½ï¿½ï¿½:ï¿½ï¿½Ó­ï¿½ï¿½
+/// ï¿½ï¿½ï¿½ï¿½:Common.cs
+/// ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½009/12/15
+/// ï¿½ï¿½ï¿½00/12/15
 //////////////////////////////////////////////////////////////////////
 
 using System;
@@ -35,17 +35,17 @@ namespace BLL
                     if (student.PassWord.Trim() == passWord.Trim())
                         return student;
                     else
-                        throw new ViladationException(new RuleViolation("ÃÜÂë²»ÕýÈ·."));
+                        throw new ViladationException(new RuleViolation("ï¿½ï¿½ï¿½ï¿½ï¿½È·."));
                 }
                 else if (teacher!=null)
                 {
                     if (teacher.PassWord.Trim() == passWord.Trim())
                         return teacher;
                     else
-                        throw new ViladationException(new RuleViolation("ÃÜÂë²»ÕýÈ·."));
+                        throw new ViladationException(new RuleViolation("ï¿½ï¿½ï¿½ï¿½ï¿½È·."));
                 }
                 else
-                    throw new ViladationException(new RuleViolation("ÓÃ»§²»´æÔÚ!"));
+                    throw new ViladationException(new RuleViolation("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½!"));
 
             }
             catch (AccessDataException ac)
